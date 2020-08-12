@@ -1,6 +1,6 @@
 ## 欢迎来到Unplugged Rust社区
 
-Unplugged Rust是一个社区，提倡轻松、简单、有营养地分享与Rust语言相关的经验，思考和生活。
+Unplugged Rust是一个社区，提倡轻松、简单、无负担、有营养地分享与Rust语言相关的经验，思考和生活。
 
 * [issues](https://github.com/unplugged-rust/unplugged-rust.github.io/issues)
 * [tg](https://t.me/unplugged_rust)
