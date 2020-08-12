@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Unplugged Rust
-description: Website for Unplugged Rust
+description: Unplugged Rust is a community to share the Rust language related experiences, thinkings and lifes with no bullshit. 
 logo: unplugged_rust.png
 show_downloads: false
 google_analytics: UA-175214456-1
