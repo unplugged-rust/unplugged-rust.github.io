@@ -1,4 +1,4 @@
-## 欢迎来到Unplugged Rust社区# Unplugged Rust社区
+## 欢迎来到Unplugged Rust社区
 
 Unplugged Rust是一个社区，提倡有意义的简单分享与Rust语言相关的经验，思想和生活。
 
